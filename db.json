@@ -1,0 +1,124 @@
+{
+  "employee": [
+    {
+      "id": 4,
+      "name": "USER 722",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-03-09T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/chetna2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mark jacksonaa",
+      "gender": "Male",
+      "email": "markeeeeeeeeeee@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-11-09T18:30:00.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/images/e1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chetna Jain",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": "8905468628",
+      "contactPreference": "Phone",
+      "dateOfBirth": "2000-03-09T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/chetna2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "ABCD",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-03-09T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/chetna2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "c",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-03-09T18:30:00.000Z",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/chetna2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Amy",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": "8905468628",
+      "contactPreference": "Phone",
+      "dateOfBirth": "2020-11-03T18:30:00.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/images/e3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "hey",
+      "gender": "Male",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": "1999999999999999999",
+      "contactPreference": "Phone",
+      "dateOfBirth": "2021-01-02T18:30:00.000Z",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/e1.jpg"
+    },
+    {
+      "id": 13,
+      "name": "new",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": "1999999999999999999",
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-03-09T18:30:00.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/images/e2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "17",
+      "gender": "Female",
+      "email": "chetnajain2282@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Email",
+      "dateOfBirth": "2000-11-09T18:30:00.000Z",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/e2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "new",
+      "gender": "Female",
+      "email": "",
+      "phoneNumber": "8905468628",
+      "contactPreference": "Phone",
+      "dateOfBirth": "2020-11-09T18:30:00.000Z",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/chetna1.jpg"
+    }
+  ]
+}

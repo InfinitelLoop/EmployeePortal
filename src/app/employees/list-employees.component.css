@@ -1,0 +1,26 @@
+.imageClass{
+    width: 200px;
+    height: 200px;
+}
+
+.bg{
+    background-color : rgb(94, 94, 180);
+}
+ 
+
+.cardBodybg{
+    background-color:rgb(212, 163, 241);
+
+}
+
+.textbody {
+    width: 600px;
+}
+.vertical-align{
+    display: flex;
+    align-items: center;
+}
+
+.pointerCursor {
+    cursor: pointer;
+}

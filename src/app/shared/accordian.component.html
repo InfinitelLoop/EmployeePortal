@@ -1,0 +1,15 @@
+<div class="card" [class.cdg] = "hasJustViewed">
+    <div class="card-header bg pointerCursor " (click) = "isHidden = !isHidden">
+        <h3 class="card-title ">{{title | uppercase}}</h3>
+    </div>
+    <div class="card-body cardBodybg" [hidden] = "isHidden">
+        <ng-content select = ".myCardBody">
+
+        </ng-content>
+    </div>
+    <div class="card-footer" [hidden] = "isHidden">
+        <ng-content select = ".myCardFooter">
+
+        </ng-content>
+    </div>
+</div>
